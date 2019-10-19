@@ -1,9 +1,9 @@
 # Note Taking
 
-> It took me awhile to realize the perfect note taking solution does not exist
+> It took me awhile to realize the perfect note taking solution does not exist. :disappointed:
 > We either accept the faults in our system or end up achieving nothing while spending time finding perfection
 
-> Therefore I would recommend anyone just accept what ever system they are using (if it works) and find the joy in using it
+> Therefore I would recommend anyone just accept whatever system they are using (if it works) and find the joy in using it :smile:
 
 At least the huge amount of time spent on researching methods, tools and software was not completely wasted,
 It helped me realize some important things about a note taking system
@@ -43,17 +43,17 @@ The most simple and minimal form of note taking and it also the best approach fo
 #### The number of paper and notebook used to take note keep increasing
 
 * at some points in time, the physical paper will become waste
-* too much paper used is also not good for the environment :P
+* too much paper used is also not good for the environment :worried:
 * what if you need to search for information that is noted years ago
 
-#### Notebook or paper is easily to be forgotten at home
+#### Notebook or paper is easily to be lost or forgotten
 
 #### A serious note taking system is not much portable
 
 * additional tools are required like highlighter pen, rulers, etc
 * it also requires multiple notebooks if working on different subjects at the same time
 
-What cannot solve with normal physical tools can be solved with technology (in a way :P)
+What cannot solve with normal physical tools can be solved with technology ( in a way :smiling_imp: )
 which lead us to the next tool
 
 ### Ipad & Apple Pencil
@@ -61,7 +61,7 @@ which lead us to the next tool
 After Apple released Apple Pencil, the term "paper less" become more and more popular among students
 
 * It's not a new technology but it's freaking good at what it does (those there are other alternatives as well but I would not recommend any of them)
-* It makes people look cool using it
+* It makes people look cool using it :sunglasses:
 * Check this video if you need some inspiration https://www.youtube.com/watch?v=waR3xBDHMqw
 
 > And most important, it solves most of the problems caused by pen & paper while inherit all of the strengths
@@ -72,7 +72,7 @@ After Apple released Apple Pencil, the term "paper less" become more and more po
 
 #### Handwriting recognition & text to speech
 
-* Now any word can be read out loud with Siri sexy voice (Hm! Great power comes great responsibility)
+* Now any word can be read out loud with Siri sexy voice ( :smirk: Great power comes great responsibility )
 
 #### Auto sync & backup
 
@@ -84,7 +84,7 @@ After Apple released Apple Pencil, the term "paper less" become more and more po
 * An ipad can store millions of notes and books
 * Just grab the ipad and apple pencil and we can create some crazy shit work of art anywhere
 
-#### More trees are saved - Yay :D
+#### More trees are saved - Yay :smile:
 
 Looks like a perfect resolution. Not so fast, at least in the perspective of a developer
 Which lead to another way of taking note
@@ -93,14 +93,14 @@ Which lead to another way of taking note
 
 We have encountered the tools with high creativity mindset and embrace different forms of arts
 
-> But when it comes down to efficiency, scalability and the ability to change the world, nothing can beats keyboarding
-> Everybody can be hero with a keyboard
+> But when it comes down to efficiency, scalability and the ability to change the world, nothing can beats keyboarding.
+> Everybody can be hero with a keyboard :unamused:
 
-Though I do not participate in any war :D, I too use a keyboard as my main tool for note taking
+Though I do not participate in any war, I too use a keyboard as my main tool for note taking
 
 #### Efficiency
 
-* Typing is much much faster than writing, especially with a good keyboard :D
+* Typing is much much faster than writing, especially with a good keyboard :relieved:
 * Though handwriting recognition is awesome, some handwriting are not meant to be ever recognized by any form of intelligence let alone machine
 * The advanced tools for advanced user only available on this platform
 
@@ -115,38 +115,48 @@ Now at this time, it's no surprise that this is my go to note taking system but 
 
 ### The candidates
 
-I've tried tons of it
+Below table shows my transition from one app to another (left > right) and the reasons for each transition
 
-* High availability (accessible on multiple platforms: pc, web, mobile)
-    * Evernote (easy recommendation for everyone, I myself used it for a long time)
-    * Bear note (less features than Evernote but better ux, too bad it focus on Apple echo system or else I would recommend it for everyone)
-    * Onenote (also a good consideration, I used it for a short time and switch to Evernote)
-    * Laverna (most secure and support markdown, I used it for a long time but sync feature is buggy)
-    * Simplenote (minimal app with markdown support but just too simple :D )
-    * Dropbox paper (don't find anything special with it)
-    * Google Keep (too simple and cards are not my style)
-    * Notion (templating is good and it's flexible enough for everyone to add their own touch but I'm too lazy for that. Besides it's not free)
-    * Boostnote (cool app for developer, too bad it's not as good as my current setup)
-* With Advanced features
-    * Notepad++ (lots of plugins and can support lots of file types, I used it for a long time)
-        * Like most of the other apps, UI is something I cannot love
-    * Sublime (lots of plugins and can support lots of file types, I used it for a long time)
-        * Better Notepad++ but still UI is a concern
-    * VSCode (lots of plugins and can support lots of file types, I used it for a long time)
-        * Seems to be the best of them all
+| Onenote >                        | Evernote >             | Laverna + Dropbox > | Vim + Dropbox            |
+|----------------------------------|------------------------|---------------------|--------------------------|
+| best when use with other MS apps | better UX              | markdown support    | better almost everything |
+| lots of advanced features        | better sync            | linux app           |                          |
+|                                  | better note management | privacy             |                          |
+
+Other candidates that worth mentioning
+
+* Bear note - https://bear.app
+    * Does not have much features than Evernote but IMHO it has a great UX
+    * Too bad it only focus on Apple eco system or else I would recommend it to anyone
+* Simplenote - https://simplenote.com
+    * Minimal UI with markdown support, very easy to use
+    * It's just too simple :D
+* Dropbox paper - https://www.dropbox.com/paper
+    * UI looks great
+    * I just don't feel comfortable working with it
+* Google Keep - https://keep.google.com
+    * Cards are not my style
+    * Too simple
+* Notion - https://www.notion.so
+    * templating is good and it's flexible enough for everyone to add their own touch
+    * but I'm too lazy for that
+    * It's not free
+* Boostnote - https://boostnote.io
+    * cool app for developer
+    * too bad it's not as good as my current setup
 * And lots of other app that I've tried but could not remember
 
 After all of that, I'm starting to see the picture.
 
-> It is the nature of a software to become obsolete, new software will be created to replace the old ones
+> It is the nature of a software to become obsolete, new software will be created to replace the old ones.
 > When trying to solve the problems of the old softwares new softwares create more problems of their own
 
-Fortunately, when it seems that everything is lost I finally find the one that worth suffering for
+Fortunately, when it seems that everything is lost I finally find the one that worth suffering for :relieved:
 
 ### My very opinionated setup
 
 The setup focus only on keeping a minimal note taking system that works
-To be honest, this setup has lots of downside
+To be honest, this setup has lots of downside :sweat:
 
 * does not support rich text format to display image, or sound and video
 * access note on other platforms a part from pc is doable but not as good as other apps
@@ -169,7 +179,7 @@ But why Vim
 
 * The one tool for development and personal note taking
 * No more remembering what option in what section in what menu in what UI
-    * Now I have to remember the commands and hotkeys :D
+    * Now I have to remember the commands and hotkeys :sweat_smile:
 * No more hand switching back and forth between mouse and keyboard
     * It's good not using mouse
 * Everyone who loves their keyboard should love Vim
@@ -190,6 +200,7 @@ Rich text format could be interesting at first when they can display images, gra
 But you soon realize the ugly truth if you try to copy or import the content to a different application, the format breaks most of the time
 
 Markdown is meant to solve the above problems and it did in a way (it still has problems of it own)
+It only cover some basic markup and some may hate that it does not support color but for a lot of people it is enough to cover their workflow
 
 #### Dropbox as sync service, backup & restore
 
@@ -253,4 +264,5 @@ A very good method for student to summary knowledge and preparing for exam
 @@note-taking
 @@pen-paper
 @@vim
+
 
